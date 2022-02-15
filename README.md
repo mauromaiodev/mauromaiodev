@@ -1,5 +1,4 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mauro Maio</h1>
-<h2 align="center">A FrontEnd Developer under construction focused on be a FullStack on the future.</h2>
 
 <a href="https://www.linkedin.com/in/mauro-maio-594251163/">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
