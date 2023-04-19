@@ -1,4 +1,4 @@
-<h1 align="center">Hello! <img alt="HTML5" src="https://gist.githubusercontent.com/mauromaiodev/174248b4ef5fd10ea552ba12aec167b8/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif"/>, I'm Mauro Maio</h1>
+<h1 align="center">Hello! <img alt="HTML5" src="https://gist.githubusercontent.com/mauromaiodev/174248b4ef5fd10ea552ba12aec167b8/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width: "30px"/>, I'm Mauro Maio</h1>
 
 <a href="https://www.linkedin.com/in/mauro-maio-594251163/">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
