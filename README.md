@@ -1,4 +1,4 @@
-<h1 align="center">Hello! <img src="https://gist.github.com/mauromaiodev/174248b4ef5fd10ea552ba12aec167b8.js" width="30px">, I'm Mauro Maio</h1>
+<h1 align="center">Hello! <script src="https://gist.github.com/mauromaiodev/174248b4ef5fd10ea552ba12aec167b8.js"></script>, I'm Mauro Maio</h1>
 
 <a href="https://www.linkedin.com/in/mauro-maio-594251163/">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
