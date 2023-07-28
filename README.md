@@ -35,7 +35,3 @@
 
 <p><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><p/>
-
--------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromaiodev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
