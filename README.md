@@ -1,8 +1,21 @@
-<h1 align="center">Hello! <img alt="HTML5" src="https://gist.githubusercontent.com/mauromaiodev/174248b4ef5fd10ea552ba12aec167b8/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30"/>, I'm Mauro Maio</h1>
+### Hey!
 
 <a href="https://www.linkedin.com/in/mauromaio-dev">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
-</a>
+</a><br/>
+
+<br/>
+
+E aí, tudo na tranquilo?<br/>
+Sou Mauro Maio, Javascript/Typescript Developer, apaixonado por tecnologia.
+
+**Algumas coisas pessoais:**
+
+- 👨🏽‍💻 Criando sempre um novo projeto 🚀 ;
+- 🌱 Estou sempre aprendendo mais sobre ReactJS e NextJS ⚛️ ;
+- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar!
+- 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝 ;
+- 📫 Me envie um email: mauromaio.dev@gmail.com;
 
 ---------------------------
 
@@ -37,3 +50,13 @@
 
 <p><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><p/>
+
+  ### Total de Visitas no perfil :detective: <br>
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jjunior96/count.svg" />
+ </p>
+ 
+  <div align='center'>
+<a height="150em" href="http://www.github.com/mauromaiodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mauromaiodev&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+
