@@ -1,4 +1,6 @@
-### Hey!
+<div>Hey!</div>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/mauromaio-dev">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
