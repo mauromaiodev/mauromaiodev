@@ -8,14 +8,14 @@
 
 <br/>
 
-E aí, tudo tranquilo?<br/>
-Sou Mauro Maio, Javascript/Typescript Developer, apaixonado por tecnologia.
+E aí, tudo na tranquilo?<br/>
+Sou Mauro Maio, Javascript/Typescript Developer.
 
 **Algumas coisas pessoais:**
 
-- 👨🏽‍💻 Criando sempre um novo projeto 🚀 ;
-- 🌱 Estou sempre aprendendo mais sobre ReactJS e NextJS ⚛️ ;
-- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar!
+- 👨🏽‍💻 Sempre criando um novo projeto 🚀 ;
+- 🌱 Estou constantemente aprendendo mais sobre ReactJS e NextJS ⚛️ ;
+- 🤔 Toda vez que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar!
 - 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝 ;
 - 📫 Me envie um email: mauromaio.dev@gmail.com;
 
