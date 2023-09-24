@@ -8,7 +8,7 @@
 
 <br/>
 
-E aí, tudo na tranquilo?<br/>
+E aí, tudo tranquilo?<br/>
 Sou Mauro Maio, Javascript/Typescript Developer, apaixonado por tecnologia.
 
 **Algumas coisas pessoais:**
