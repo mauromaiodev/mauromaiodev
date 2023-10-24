@@ -9,7 +9,7 @@
 <br/>
 
 E aí, tudo na tranquilo?<br/>
-Sou Mauro Maio, Javascript/Typescript Developer.
+Sou Mauro Maio, Javascript/Typescript Software Engineer.
 
 **Algumas coisas pessoais:**
 
