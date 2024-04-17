@@ -9,7 +9,7 @@
 <br/>
 
 E aí, tudo tranquilo?<br/>
-Sou Mauro Maio, Javascript/Typescript Software Engineer.
+Sou Mauro Maio, Javascript/Typescript Web Developer, atualmente trabalho na Peregrina Investimentos como Frontend Developer Pleno.
 
 **Algumas coisas pessoais:**
 
