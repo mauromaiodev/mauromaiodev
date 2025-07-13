@@ -60,7 +60,7 @@ Sou Mauro Maio, Javascript/Typescript Web Developer.
 <p><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><p/>
 
- <h1 align="center">Total de Visitas no perfil :detective: <h1/>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/mauromaiodev/count.svg" />
- </p>
+<h3 align="center">🕵️‍♂️ Total de Visitas no Perfil</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mauromaiodev/count.svg" />
+</p>
