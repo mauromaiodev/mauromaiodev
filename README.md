@@ -59,9 +59,3 @@ Sou Mauro Maio, Javascript/Typescript Web Developer.
 
 <p><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><p/>
-
-<h3 align="center">🕵️‍♂️ Total de Visitas no Perfil</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mauromaiodev&color=blue" alt="Contador de visitas no perfil"/>
-</p>
-
