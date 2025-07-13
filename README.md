@@ -62,5 +62,6 @@ Sou Mauro Maio, Javascript/Typescript Web Developer.
 
 <h3 align="center">🕵️‍♂️ Total de Visitas no Perfil</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mauromaiodev/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=mauromaiodev&color=blue" alt="Contador de visitas no perfil"/>
 </p>
+
